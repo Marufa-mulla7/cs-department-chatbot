@@ -1,0 +1,31 @@
+CS DEPARTMENT KNOWLEDGE BASE
+(Sample/placeholder content — replace with real department info anytime)
+
+== ADMISSIONS ==
+Admission to the Computer Science Engineering program is based on entrance exam rank (CET/COMEDK) or management quota seats. The admission cell is located near the main entrance of the college, open Monday to Saturday, 9:30 AM to 4:30 PM. Required documents include 10th and 12th marksheets, transfer certificate, migration certificate, entrance exam scorecard, and passport-size photographs. The application window typically opens in June and closes by early August, ahead of the semester start.
+
+== COURSES OFFERED ==
+The CSE department follows a semester system across 4 years (8 semesters). Core subjects include:
+- 1st year: Programming in C, Engineering Mathematics, Physics, Basic Electronics
+- 2nd year: Data Structures, Object-Oriented Programming (Java), Digital Logic Design, Discrete Mathematics
+- 3rd year: Database Management Systems, Operating Systems, Computer Networks, Software Engineering, Web Technologies (HTML/CSS/JavaScript, Python)
+- 4th year: Machine Learning, Cloud Computing, Cyber Security, Major Project, Internship
+Elective subjects vary by year and include AI, Blockchain, IoT, and Mobile App Development.
+
+== FACULTY ==
+The department is headed by the Head of Department (HOD), whose cabin is located on the 2nd floor of the CSE block. The department has a mix of Professors, Associate Professors, and Assistant Professors covering core subjects, along with lab instructors for practical sessions. Faculty office hours are generally posted outside each staff room for student consultations.
+
+== DEPARTMENT FACILITIES ==
+The CSE department is located in Block 4 of the campus. Facilities include 4 computer labs equipped with updated systems, a dedicated project lab for final-year students, a seminar hall, and a departmental library with reference books and journals. Wi-Fi is available across the department for academic use.
+
+== EXAMS AND GRADING ==
+The college follows a Continuous Internal Evaluation (CIE) plus Semester End Examination (SEE) pattern. Internal assessments include class tests, assignments, and lab records, contributing to the final grade alongside the semester exam. Students must maintain a minimum attendance of 75% to be eligible to sit for semester exams.
+
+== CAREERS AND PLACEMENTS ==
+The Training and Placement Cell coordinates on-campus recruitment drives with IT companies, startups, and service-based firms. Recent recruiters have included mid-sized IT services companies and local startups. Average placement rate hovers around 70-75%, with starting packages typically in the 2.5-4 LPA range depending on the company and role, and some engineering off-campus opportunities. Popular career paths for CSE graduates include Software Developer, QA Engineer, Data Analyst, and pursuing higher studies (M.Tech/MS).
+
+== STUDENT CLUBS AND ACTIVITIES ==
+The department runs a Coding Club and a Tech Fest committee that organizes hackathons, coding contests, and workshops throughout the year. Students are encouraged to participate in inter-college technical competitions and paper presentations.
+
+== CONTACT ==
+For department-specific queries, students can visit the CSE department office in Block 4 during working hours, or contact the department office via the college's official phone line and email listed on the college website.
